@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Layout_check</string>
+    <string name="course">Course</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="anshad">Anshad</string>
+    <string name="nihal">Nihal</string>
+    <string name="_24">24</string>
+    <string name="mca">MCA</string>
+    <string name="_23">23</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DataAndTime</string>
+    <string name="tv1">Time and Date in Long Format:</string>
+    <string name="tv2">TextView to Display Long Time and Date:</string>
+    <string name="tv3">Date and Time in other formats :</string>
+    <string name="tv4">TextView</string>
+    <string name="tv5">TextView</string>
+    <string name="tv6">TextView</string>
+    <string name="tv7">TextView</string>
+    <string name="tv8">TextView</string>
+    <string name="tv9">TextView</string>
+    <string name="tv10">TextView</string>
+</resources>
